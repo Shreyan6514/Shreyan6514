@@ -1,7 +1,7 @@
 <img src="GH_banner.png" alt="GitHub Banner" width="100%" />
 
-
 # 💫 About Me:
+<img align="right" height="200" src="https://i.giphy.com/78XCFBGOlS6keY1Bil.webp"  />
 Hi, I'm Shreyan 👨‍💻<br><br>I’m a Computer Engineering student just starting out in coding and development. Excited to learn, build, and grow with every project.<br><br>Currently Exploring<br>🌱 Full-stack development<br>💻 Small personal projects<br>🚀 Open to learning and collaboration!<br><br>Feel free to reach out – always happy to connect! 
 
 ## 🌐 Socials:
@@ -20,8 +20,6 @@ Hi, I'm Shreyan 👨‍💻<br><br>I’m a Computer Engineering student just sta
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Shreyan6514) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/TezEth) 
 
-    
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
