@@ -3,9 +3,6 @@
 
 # 💫 About Me:
 Hi, I'm Shreyan 👨‍💻<br><br>I’m a Computer Engineering student just starting out in coding and development. Excited to learn, build, and grow with every project.<br><br>Currently Exploring<br>🌱 Full-stack development<br>💻 Small personal projects<br>🚀 Open to learning and collaboration!<br><br>Feel free to reach out – always happy to connect! 
-##
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-##
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Shreyan-Szrejan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sszrejann) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shreyan-Shreyan) 
@@ -15,9 +12,7 @@ Hi, I'm Shreyan 👨‍💻<br><br>I’m a Computer Engineering student just sta
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyan6514&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shreyan6514&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Shreyan6514&icon=5&color=0)](https://visitcount.itsvg.in)
