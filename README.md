@@ -3,7 +3,9 @@
 
 # 💫 About Me:
 Hi, I'm Shreyan 👨‍💻<br><br>I’m a Computer Engineering student just starting out in coding and development. Excited to learn, build, and grow with every project.<br><br>Currently Exploring<br>🌱 Full-stack development<br>💻 Small personal projects<br>🚀 Open to learning and collaboration!<br><br>Feel free to reach out – always happy to connect! 
-
+##
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+##
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Shreyan-Szrejan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sszrejann) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shreyan-Shreyan) 
