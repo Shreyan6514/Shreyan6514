@@ -1,6 +1,5 @@
 <img src="GH_banner.png" alt="GitHub Banner" width="100%" />
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6505098" style='border:none;'></iframe>
 
 
 # ✪ About Me:
