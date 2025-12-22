@@ -1,5 +1,8 @@
 <img src="GH_banner.png" alt="GitHub Banner" width="100%" />
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6505098" style='border:none;'></iframe>
+
+
 # ✪ About Me:
 <img align="right" height="200" src="https://i.giphy.com/78XCFBGOlS6keY1Bil.webp"  />
 Hi, I'm Shreyan 👨‍💻<br><br>I’m a Computer Engineering student just starting out in coding and development. Excited to learn, build, and grow with every project.<br><br>Currently Exploring<br>🌱  Developer <br>💻 Small personal projects<br>🚀 Open to learning and collaboration!<br><br>Feel free to reach out – always happy to connect! 
